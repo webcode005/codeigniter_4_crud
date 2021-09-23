@@ -27,7 +27,7 @@ Just Follow below Steps:
 7) Open routes.php and create a "Get" route for books listing.
 
 8) We will use bootstrap 4 for our project, you can download bootstrap files from my github account.
-   https://github.com/mohitsingh2006/ci4...
+   ci4_assets-master folder
 
 9) Create a folder name "assets" inside public directory and paste the "css" and "js" folder there.
    
